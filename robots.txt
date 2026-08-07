@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://umarmajeed786.github.io/snippets-ya5ybj/sitemap.xml
